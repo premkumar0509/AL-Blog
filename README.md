@@ -36,9 +36,9 @@ Each article is implemented as an AL extension so that you can:
 
 ## 📚 Posts
 
-* [**Understanding Interfaces**](src/understanding-interfaces/) — A beginner-friendly guide to interfaces in AL: how they work, why they matter, and how to use them to write extensible, clean code in Business Central.
-* [**AL Error Handling**](src/al-error-handling/) — Practical examples of error handling in Microsoft Dynamics 365 Business Central using AL.
-* [**Consuming External REST API**](src/consuming-external-rest-api/) — Learn how to connect Business Central to external services using HttpClient, parse JSON responses, and handle GET, POST, PUT, PATCH, and DELETE requests in AL.
+* [**Understanding Interfaces**](understanding-interfaces/) — A beginner-friendly guide to interfaces in AL: how they work, why they matter, and how to use them to write extensible, clean code in Business Central.
+* [**AL Error Handling**](al-error-handling/) — Practical examples of error handling in Microsoft Dynamics 365 Business Central using AL.
+* [**Consuming External REST API**](consuming-external-rest-api/) — Learn how to connect Business Central to external services using HttpClient, parse JSON responses, and handle GET, POST, PUT, PATCH, and DELETE requests in AL.
 
 > More Business Central development topics will be added as new blog articles are published.
 
