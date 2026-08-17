@@ -92,6 +92,7 @@ codeunit 80000 "Error Handling"
         MyErrorInfo.Message := StrSubstNo(ItemBlockedCannotBeSoldLbl, Item."No.");
         MyErrorInfo.CustomDimensions.Add('ItemNo', Item."No.");
         MyErrorInfo.RecordId := Item.RecordId;
+        MyErrorInfo.PageNo := Page::"Item Card"; //Optional
         MyErrorInfo.AddNavigationAction('Open Item Card');
         MyErrorInfo.AddAction(
                             'Unblock Item',

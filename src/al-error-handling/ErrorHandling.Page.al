@@ -1,6 +1,7 @@
 page 80000 "Error Handling"
 {
     ApplicationArea = All;
+    UsageCategory = Administration;
     Caption = 'Error Handling';
     PageType = Card;
 
